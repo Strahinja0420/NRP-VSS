@@ -1,4 +1,6 @@
-# Vaja 1: Ideja IT produkta in opredelitev problema
+
+
+# Načrtovanje in razvoj IT produktov (NRP)
 
 ## Navodila za delo (Git)
 
@@ -8,91 +10,118 @@
 * Oddaja se šteje kot veljavna, ko je vsebina **commitana in potisnjena (push)** v repozitorij do roka oddaje.
 * Priporočena je smiselna struktura commitov in jasna commit sporočila.
 
-## Namen vaje
 
-Namen prve vaje je, da študent samostojno identificira **konkreten problem ali priložnost**, ki jo je smiselno reševati z IT produktom. Vaja postavlja temelje za celoten projekt pri predmetu **Načrtovanje in razvoj IT produktov (NRP)**.
 
-Poudarek je na razmišljanju *izven tipičnih študentskih idej* ter na realnem ali realno simuliranem trgu.
 
----
+## Opis predmeta
 
-## Naloga
+Predmet **Načrtovanje in razvoj IT produktov (NRP)** je praktično usmerjen predmet, katerega cilj je študentom omogočiti celovit vpogled v proces razvoja IT produkta – od ideje in analize trga do zasnove, razvoja, validacije in predstavitve končnega produkta.
 
-Izberi **eno unikatno idejo IT produkta**, ki rešuje jasno definiran problem.
-
-Ideja:
-
-* mora imeti **konkretnega uporabnika** (posameznik, podjetje, organizacija),
-* ne sme biti zgolj kopija obstoječih rešitev (npr. še ena ToDo aplikacija brez dodane vrednosti),
-* mora imeti jasno dodano vrednost.
+Poudarek je na **projektnem delu**, samostojnem razmišljanju, uporabi sodobnih metod (Lean, Design Thinking, Agile/Scrum, Kanban) ter razumevanju realnih tržnih in uporabniških potreb.
 
 ---
 
-## Kaj moraš oddati
+## Cilji predmeta
 
-Pripravi kratek dokument (Markdown ali PDF), ki vsebuje naslednje točke:
+Študent bo po uspešno zaključenem predmetu sposoben:
 
-### 1. Delovni naslov produkta
-
-* Kratek, jasen in smiseln naziv IT produkta.
-
-### 2. Opis problema
-
-* Kaj je problem?
-* Koga problem zadeva?
-* Zakaj je problem pomemben?
-
-*(Problem opiši brez takojšnjega skoka na rešitev.)*
-
-### 3. Ciljni uporabnik
-
-* Kdo je tipičen uporabnik?
-* V kakšnem okolju deluje?
-* Katere težave ima v praksi?
-
-### 4. Predlagana rešitev (osnovna ideja)
-
-* Kako tvoj IT produkt rešuje opisan problem?
-* Zakaj je rešitev boljša od obstoječih alternativ?
-
-### 5. Primer uporabe (kratek scenarij)
-
-Na kratko opiši konkreten primer uporabe produkta v praksi.
+* identificirati in utemeljiti problem ali priložnost na trgu,
+* zasnovati IT produkt z jasno vrednostno ponudbo,
+* pripraviti osnovni produktni in poslovni model (npr. Lean Canvas),
+* definirati uporabniške vloge in **user stories**,
+* načrtovati razvoj produkta z uporabo agilnih metod,
+* izdelati prototip ali MVP (Minimum Viable Product),
+* ovrednotiti produkt z vidika uporabnika, trga in tehnične izvedljivosti,
+* strokovno predstaviti projektno rešitev.
 
 ---
 
-## Omejitve in priporočila
+## Način dela
 
-* Rešitev **ni nujno tehnično dokončna**.
-* Osredotoči se na *razmišljanje in logiko*, ne na tehnologijo.
-* Tehnologije (web, mobile, AI, IoT, AR/VR, …) lahko omeniš, niso pa obvezne.
+Predmet poteka v obliki:
 
----
+* **predavanj** (teoretični okvir, primeri dobrih praks),
+* **vaj** (strukturirano delo na projektu),
+* **projektnega dela**, ki se razvija postopno skozi celoten semester.
 
-## Obseg
-
-* Priporočen obseg: **1–2 strani** (Markdown ali PDF).
+Vsak študent razvija **lastno idejo IT produkta**, ki mora imeti realen ali vsaj realno simuliran trg ter jasno opredeljenega uporabnika.
 
 ---
 
-## Oddaja
+## Struktura ocenjevanja
 
-* Način oddaje: po navodilih izvajalca predmeta
-* Rok: skladno z urnikom
+Skupna ocena je sestavljena iz naslednjih komponent:
 
-Oddaja vaje prinaša **1 % k končni oceni** (sprotno ocenjevanje).
+### 1. Projektno delo – **60 %**
+
+Projekt se razvija skozi semester in vključuje:
+
+* idejo in opredelitev problema,
+* analizo trga in uporabnikov,
+* Lean Canvas ali primerljiv model,
+* uporabniške zgodbe (user stories),
+* načrt razvoja (Scrum / Kanban),
+* prototip ali MVP,
+* končno predstavitev produkta.
+
+Ocenjuje se kakovost rešitve, logičnost procesa, inovativnost, realnost izvedbe ter strokovna predstavitev.
 
 ---
 
-## Merila ocenjevanja
+### 2. Vaje – **30 %**
 
-* jasnost in razumljivost problema,
-* realnost in relevantnost ideje,
-* logična povezava med problemom in rešitvijo,
-* unikatnost razmišljanja.
+Vaje so vsebinsko vezane na posamezne faze razvoja IT produkta in neposredno podpirajo projektno delo.
+
+Ocenjuje se:
+
+* sodelovanje,
+* razumevanje obravnavane snovi,
+* kakovost oddanih nalog,
+* sposobnost prenosa teorije v prakso.
 
 ---
 
-## Opomba
+### 3. Sprotno oddajanje vaj – **10 %**
 
-Ta vaja predstavlja **temelj projekta**. Idejo boš skozi semester nadgrajeval, izboljševal in validiral – zato izberi problem, ki te dejansko zanima.
+Vsaka sprotno oddana vaja prinaša **1 %** k končni oceni.
+
+* skupaj je predvidenih **10 vaj**,
+* točke se pridobijo izključno s pravočasno in ustrezno oddajo,
+* zamujene ali neoddane vaje ne prinašajo točk.
+
+Namen sprotnega oddajanja je spodbujanje kontinuiranega dela skozi semester.
+
+---
+
+## Pogoji za pristop h končni predstavitvi
+
+* aktivno sodelovanje pri vajah,
+* oddane vse obvezne projektne faze,
+* izpolnjeni minimalni pogoji sprotnih obveznosti.
+
+---
+
+## Končna predstavitev
+
+Na koncu semestra študent predstavi:
+
+* problem in ciljno skupino,
+* rešitev (IT produkt),
+* ključne funkcionalnosti,
+* razvojni pristop,
+* dodano vrednost in potencial produkta.
+
+Predstavitev mora biti jasna, strukturirana in strokovna.
+
+---
+
+## Pričakovanja
+
+Od študentov se pričakuje:
+
+* samostojno in odgovorno delo,
+* kritično razmišljanje,
+* pripravljenost na iteracije in izboljšave,
+* spoštovanje rokov.
+
+Predmet simulira **realno okolje razvoja IT produkta**, zato sta doslednost in profesionalen pristop ključna.
